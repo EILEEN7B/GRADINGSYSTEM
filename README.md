@@ -17,4 +17,7 @@ The java code has the following classes
   60-69: Grade D
   50-59: Grade E
   less then 50: FAIL (Supplementary Required)
+
+  The user is prompt to input student name, student Id, Course being done an the marks got.
+  
   
